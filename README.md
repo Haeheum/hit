@@ -1,16 +1,8 @@
 # hit
 
-A new Flutter project.
+채용 과제 미션입니다.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 구현 사항
+우측 하단의 + 버튼을 클릭해서 신규 카드 생성이 가능합니다.
+카드 클릭 시 수정 및 삭제가 가능합니다.
+드래그 시 카드의 최상단 끝 (위쪽 모서리)가 위치한 칸으로 이동됩니다.
